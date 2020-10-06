@@ -21,9 +21,9 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/keepsecretly/vcx-cocoapods'
+  s.homepage        = 'https://github.com/keepsecretly/vcx-cocoapods'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license         = "Apache License, Version 2.0"
   s.author             = { "indy sdk" => "stonledger@sk.com" }
   s.source          = { :http => "https://github.com/AbsaOSS/libvcx/releases/download/0.11.0/libvcx-ios-0.11.0-universal.zip" }
 
